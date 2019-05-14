@@ -22,7 +22,7 @@ several components - at least one classical and one functional.
 * Moment
 * Bulma
 
-## DayOut Overview
+## DayOut
 
 Dayout is a simple application that shows the user festivals that are currently ongoing in London. It also displays the current weather and tube service status.
 
@@ -78,7 +78,7 @@ Dates and times provided by APIs such as Skiddle occasionally needed to be refor
 
 ## Future features
 
-*Given more time I would provide better styling
-*Given more time the site would provide traffic conditions as well
-*To expand on the site more event types could be created, not just festivals
-*Use MapBoxGL to provide walking directions to the event
+- Given more time I would provide better styling
+- Given more time the site would provide traffic conditions as well
+- To expand on the site more event types could be created, not just festivals
+- Use MapBoxGL to provide walking directions to the event
