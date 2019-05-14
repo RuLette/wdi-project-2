@@ -41,7 +41,13 @@ I started testing the APIs in Insomnia to get an idea what data was available be
 
 For pulling event data, I decided on the Skiddle API and narrowed the search down to just festivals. For weather information, I chose the Open Weather API for data on the weather in London. For tube service statuses, Transport For London (TFL)'s API was very handy as it was open source and did not require an API Key for requests.
 
+![eventrequest](https://user-images.githubusercontent.com/29276064/57707002-c4aa2880-765e-11e9-9dca-af4a4cdad37a.png)
+
 After getting the information I required from the APIs, I drew wireframes out for each page in the application.
+
+
+
+![dayoutshow](https://user-images.githubusercontent.com/29276064/57706775-4d749480-765e-11e9-9f83-b6b36b40a53b.png)
 
 I used the Bulma CSS framework for styling and for making the site responsive.
 
