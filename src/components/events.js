@@ -18,7 +18,7 @@ class Events extends React.Component {
   }
 
   getEvents() {
-    axios.get('https://cors-anywhere.herokuapp.com/https://www.skiddle.com/api/v1/events/search/', {
+    axios.get('https://www.skiddle.com/api/v1/events/search/', {
       params: {
         latitude: 51.509865,
         longitude: -0.118092,

@@ -15,8 +15,6 @@ class Weather extends React.Component {
       .then(res => this.setState({weather: res.data}))
   }
 
-
-
   render() {
     console.log(this.state.weather, 'weather')
     return (

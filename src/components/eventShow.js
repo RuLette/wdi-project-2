@@ -15,7 +15,7 @@ class EventShow extends React.Component {
   }
 
   componentDidMount() {
-    axios.get(`https://cors-anywhere.herokuapp.com/https://www.skiddle.com/api/v1/events/${this.props.match.params.id}`, {
+    axios.get(`https://www.skiddle.com/api/v1/events/${this.props.match.params.id}`, {
       params: {
         api_key: skiddleKey
       }
