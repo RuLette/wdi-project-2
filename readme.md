@@ -30,6 +30,8 @@ Upon selecting an event, the user may read its description while details of the 
 
 ![dayout1](https://user-images.githubusercontent.com/29276064/57707760-18694180-7660-11e9-8800-d7f8b724f65d.png)
 
+<br/>
+
 ![dayoutshow](https://user-images.githubusercontent.com/29276064/57706775-4d749480-765e-11e9-9f83-b6b36b40a53b.png)
 
 ## Process
