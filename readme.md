@@ -31,7 +31,7 @@ Dayout is a simple application that shows the user festivals that are currently 
 <br/>
 Upon selecting an event, the user may read its description while details of the venue are presented on a map using the Mapbox-gl API.
 <br/>
-
+<br/>
 ![dayoutshow](https://user-images.githubusercontent.com/29276064/57706775-4d749480-765e-11e9-9f83-b6b36b40a53b.png)
 
 ## Process
